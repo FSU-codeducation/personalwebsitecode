@@ -1,0 +1,9 @@
+<!-- Fourth Packaged HTML Code: side flex box -->
+<!-- Location: beneath the </nav> tag in the <body></body> tags -->
+
+<div class="row">
+    <div class="side">
+        <div class="#img"><img src=""></div>
+        <p class="caption">(Caption Text)</p>
+    </div>
+</div>
