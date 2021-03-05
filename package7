@@ -1,0 +1,18 @@
+<!-- First Packaged CSS Code: all, body, header -->
+<!-- Location: within the <style></style> tags -->
+
+* {
+    box-sizing:;
+}
+body {
+    height: %;
+    margin:;
+}
+header {
+    padding: px;
+    font-size: px;
+    letter-spacing: px;
+    text-align:;
+    background:  #0A0903;
+    color: #DFE0DC; 
+}
