@@ -1,5 +1,5 @@
 <!-- Third Packaged HTML Code: navigation -->
-<!-- Location: Beneath the </header> tag in the <body></body> tag -->
+<!-- Location: Beneath the </header> tag before the </body> tag -->
 
 <nav>
     <ul>
