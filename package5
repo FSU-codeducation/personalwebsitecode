@@ -1,5 +1,5 @@
 <!-- Fifth Packaged HTML Code: main flex box -->
-<!-- Location: beneath the <div class "side"></div>, within the body and <div class="row"></div> tags -->
+<!-- Location: beneath the <div class "side"></div> tags, within the <div class="row"></div> tags and before the </body> tag -->
 
 <div class="main">
     <h3 class=""></h3>
