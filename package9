@@ -1,0 +1,28 @@
+<!-- Third Packaged CSS: .row, .side, .main -->
+<!-- Location: beneath the li a {} section from package 8, before the </style> tag -->
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.side {
+    flex: %;
+    padding: px;
+    text-align:;
+}
+.main {
+    flex: %;
+    padding: px;
+    overflow-wrap: inherit;
+    text-align:justify;
+}
+.welcome {
+    font-size: px;
+}
+.caption {
+    font-size: px;
+}
+.paragraph {
+    font-size: px;
+    line-height:;
+}
