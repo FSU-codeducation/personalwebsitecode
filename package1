@@ -1,5 +1,6 @@
 <!---First Packaged HTML Code-->
 <!---Location: Anywhere in the editor-->
+<!-- Note: This is a comment -->
 
 <!DOCTYPE html>
 <html>
@@ -7,15 +8,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width device-width, initial-scale = 1.0">
     <title></title>
+    
     <style>
-
-
+         <!-- This is where the CSS code goes -->   
+         <!-- Paste package 7 here -->
+         
+         <!-- Paste package 8 here -->
+         
+         <!-- Paste package 9 here -->
+         
+         <!-- Paste package 10 here -->
+         
+         <!-- Paste package 11 here -->
 
     </style>
+
 </head>
 
 <body>
 
+    <!-- Paste package 2 here -->
+    
+    <!-- Paste package 3 here -->
+    
+    <!-- Paste package 4 here -->
+    
+    <!-- Paste package 5 here, but make sure to keep it within the <div class="row"></div> tag from package 4-->
+    
+    <!-- Paste package 6 here -->
 
 </body>
 </html>
