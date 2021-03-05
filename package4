@@ -1,5 +1,5 @@
 <!-- Fourth Packaged HTML Code: side flex box -->
-<!-- Location: beneath the </nav> tag in the <body></body> tags -->
+<!-- Location: beneath the </nav> tag within the <body></body> tags -->
 
 <div class="row">
     <div class="side">
