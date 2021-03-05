@@ -1,0 +1,123 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Demo</title>
+
+    <style>
+      *{
+        box-sizing:border-box;
+      }
+      body{
+        height: 100%;
+        margin:0;
+      }
+      header {
+        padding: 20px;
+        font-size: 50px;
+        letter-spacing: 10px;
+        text-align: center;
+        background: #0A0903;
+        color: #DFE0DC;
+      }
+      ul {
+        list-style-type: none;
+        display: flex;
+        background-color: #DFE0DC;
+        font-size: 20px;
+        padding: 0;
+        margin: 0;
+      }
+      li a {
+        display: block;
+        color: #0A0903;
+        padding: 14px 20px;
+        text-decoration: none;
+        text-align: center;
+      }
+      li a:hover {
+        background-color: #823038;
+        color: #DFE0DC;
+      }
+      .row {
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .side {
+        flex: 30%;
+        padding: 10px;
+        text-align: center;
+      }
+      .main {
+        flex: 70%;
+        padding: 10px;
+        text-align: justify;
+      }
+      .welcome {
+        font-size: 30px;
+      }
+      .caption {
+        font-size: 15px;
+      }
+      .paragraph {
+        font-size: 18px;
+        line-height:1.5;
+      }
+      footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        height: 10px;
+        text-align: center;
+      }
+      @media screen and (max-width:700px){
+      .row, nav {
+        flex-direction: column;
+      }
+      header{
+        font-size: 20px;
+      }
+      }
+  </style>
+
+<body>
+
+    <header>
+        <h3 class="header">FLAVORTOWN.COM</h3>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#news">Recipes</a></li>
+        <li><a href="#contact">Tour</a></li>
+        <li><a href="#about">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div class="row">
+      <div class="side">
+        <div class="img"><img src="#ImageNameHere"></div>
+        <p class="caption"></p>
+      </div>
+
+      <div class="main">
+        <h3 class="about-heading">Welcome to Flavor Town!</h3>
+        <p class="paragraph">
+           Hi! I am Guy and I am a chef who was inducted into the Barbecue Hall of Fame. 
+           <br>I have been in shows on the Food Network such as <i>Diners, Drive-ins, and Dives</i> and <i>Guy's Grocery Games</i>. 
+           <br>I love food, and I wake up in the morning thinking about it.
+           <br>Check out my <a href="https://www.guyfieri.com/">tour dates</a> to find out when I am coming to a city near you. <br>Peace, love, and taco grease.</br>
+        </p>
+      </div>
+    
+    </div>
+
+    <footer>
+      Guy's Website 2021
+    </footer>
+     
+</body>
+</html>
