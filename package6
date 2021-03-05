@@ -1,0 +1,6 @@
+<!-- Sixth Packaged HTML Code -->
+<!-- Location: below all </div> tags, before </body> tag -->
+
+<footer>
+    This is the footer.
+</footer>
