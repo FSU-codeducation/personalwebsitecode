@@ -1,0 +1,11 @@
+
+<!-- Additional CSS Code for mobile functionality: @media screen -->
+<!-- Location: below the footer {} section from package 7, before the </style> tag -->
+
+@media screen and (max-width:700px) {
+    .row, nav {
+        flex-direction: column;
+    }
+    header {
+        font-size: 20px;
+    }
